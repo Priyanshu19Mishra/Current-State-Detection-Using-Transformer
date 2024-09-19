@@ -1,4 +1,4 @@
-# Current-State-Detection-Using-Transformer
+7# Current-State-Detection-Using-Transformer
 (A comparitive analysis between GRU and Transformer) 
 
 This repository is in continuation of the previous work on the "Current State Detection". The Previous work was based on the architecture of 
@@ -8,3 +8,5 @@ sequential formatting. Now we will be working with the "Transformers". The archi
 
 Transformers are well known for thier workings with the long sequential textual data due to their remembering capacities. Looking to this 
 promising approach of the transformers, it has been in used in place of GRU. 
+
+This approach using transformer, works on the same classes/ labels as GRU worked on. 
