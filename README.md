@@ -21,4 +21,6 @@ The nine labels are
 8. Non-Mental
 9. Anxiety
 
+The result and the performaance of the model has been shared in the repository with multiple files. Images of the distribution of the  model
+along with the performance of the model has been shared in the repository. 
 
