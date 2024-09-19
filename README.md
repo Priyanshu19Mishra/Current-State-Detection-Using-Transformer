@@ -10,3 +10,13 @@ Transformers are well known for thier workings with the long sequential textual 
 promising approach of the transformers, it has been in used in place of GRU. 
 
 This approach using transformer, works on the same classes/ labels as GRU worked on. 
+The nine labels are
+1. Stress
+2. No stress
+3. Depression
+4. No depression
+5. Bi-polar Disorder
+6. Personality disorder
+7. Mental
+8. Non-Mental
+9. 
