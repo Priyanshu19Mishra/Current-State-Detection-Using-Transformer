@@ -19,7 +19,7 @@ The nine labels are
 6. Personality disorder
 7. Mental
 8. Non-Mental
-9. Anxiety
+9. Anxiety check
 
 The result and the performaance of the model has been shared in the repository with multiple files. Images of the distribution of the  model
 along with the performance of the model has been shared in the repository. 
