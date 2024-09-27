@@ -28,4 +28,4 @@ The main task involves the integration of the dataset from the diversed categori
 dataset.
 The huge data with around 2.5 lakh data has been shared in this repository. The pyhton file to built this huge dataset is also shared in this repository. 
 This repository basically is the comparison of the working of the two architectures. The architecture that we are comparing here is GRU and transformers. Their 
-working on the sequence to sequence textual data.
+working on the sequence to sequence textual data. Textual data are very very much important to process at the real world.
