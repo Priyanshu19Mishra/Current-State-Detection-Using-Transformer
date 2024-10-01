@@ -30,5 +30,6 @@ The huge data with around 2.5 lakh data has been shared in this repository. The 
 This repository basically is the comparison of the working of the two architectures. The architecture that we are comparing here is GRU and transformers. Their 
 working on the sequence to sequence textual data. Textual data are very very much important to process at the real world.
 Development and deployment of the model for the mood detection can be implemented in various ways. One possible way is by using frameworks like Flask, Django to 
-have connectivity at the back-end. Other could be using nqrok application. This application is supported in Google colab as well.
+have connectivity at the back-end. Other could be using nqrok application. This application is supported in Google colab as well. And the most trendy and easy to 
+deploy model could be using cloud services like AWS, Azure, etc. They even provide a handful of pre-trained models too for the user to directly query with the model.
 
