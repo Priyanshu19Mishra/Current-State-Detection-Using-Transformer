@@ -33,5 +33,6 @@ Development and deployment of the model for the mood detection can be implemente
 have connectivity at the back-end. Other could be using nqrok application. This application is supported in Google colab as well. And the most trendy and easy to 
 deploy model could be using cloud services like AWS, Azure, etc. They even provide a handful of pre-trained models too for the user to directly query with the model.
 
-There are various architectures of Transformers. SOme like, BERT, GPT, Peagasus, etc.
+There are various architectures of Transformers. SOme like, BERT, GPT, Peagasus, etc. In the following execution, bert transformer has been used. The most prefered
+IDE for machine learning is Google colab.
 
